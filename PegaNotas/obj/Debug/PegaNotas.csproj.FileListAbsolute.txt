@@ -1,0 +1,5 @@
+c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\bin\Debug\PegaNotas.exe.config
+c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\bin\Debug\PegaNotas.exe
+c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\bin\Debug\PegaNotas.pdb
+c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\obj\Debug\PegaNotas.exe
+c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\obj\Debug\PegaNotas.pdb
