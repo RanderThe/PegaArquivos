@@ -3,3 +3,4 @@ c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\bin\De
 c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\bin\Debug\PegaNotas.pdb
 c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\obj\Debug\PegaNotas.exe
 c:\users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\obj\Debug\PegaNotas.pdb
+C:\Users\rander\documents\visual studio 2013\Projects\PegaNotas\PegaNotas\obj\Debug\PegaNotas.csprojResolveAssemblyReference.cache
